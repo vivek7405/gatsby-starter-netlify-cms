@@ -39,7 +39,7 @@ Vesalius is often referred to as the founder of modern [human anatomy](https://e
 * Over the next eleven years Vesalius traveled with the court, treating injuries caused in battle or tournaments, performing postmortems, administering medication, and writing private letters addressing specific medical questions. During these years he also wrote *the Epistle on the China root*, a short text on the properties of a medical plant whose efficacy he doubted, as well as a defense of his anatomical findings.
 * After the abdication of Emperor Charles V, Vesalius continued at court in great favor with his son Philip II, who rewarded him with a pension for life by making him a [count palatine](https://en.wikipedia.org/wiki/Count_palatine "Count palatine"). In 1555 he published a revised edition of *De humani corporis fabrica*.
 * In 1564 Vesalius went on a pilgrimage to the Holy Land, some said, in penance after being accused of dissecting a living body. He sailed with the Venetian fleet under [James Malatesta](https://it.wikipedia.org/wiki/Giacomo_Malatesta "it:Giacomo Malatesta") via [Cyprus](https://en.wikipedia.org/wiki/Cyprus "Cyprus"). When he reached [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem "Jerusalem") he received a message from the Venetian senate requesting him again to accept the Paduan professorship, which had become vacant on the death of his friend and pupil [Fallopius](https://en.wikipedia.org/wiki/Gabriele_Falloppio "Gabriele Falloppio").
-* After struggling for many days with adverse winds in the [Ionian Sea](https://en.wikipedia.org/wiki/Ionian_Sea "Ionian Sea"), he was shipwrecked on the island of [Zakynthos](https://en.wikipedia.org/wiki/Zakynthos "Zakynthos").[\[9]](https://en.wikipedia.org/wiki/Andreas_Vesalius#cite_note-NPO-9) Here he soon died, in such debt that a benefactor kindly paid for his funeral. At the time of his death he was 49 years of age. He was buried somewhere on the island of Zakynthos (Zante).
+* After struggling for many days with adverse winds in the [Ionian Sea](https://en.wikipedia.org/wiki/Ionian_Sea "Ionian Sea"), he was shipwrecked on the island of [Zakynthos](https://en.wikipedia.org/wiki/Zakynthos "Zakynthos").\[[9]](https://en.wikipedia.org/wiki/Andreas_Vesalius#cite_note-NPO-9) Here he soon died, in such debt that a benefactor kindly paid for his funeral. At the time of his death he was 49 years of age. He was buried somewhere on the island of Zakynthos (Zante).
 
 ## `Publications`
 
@@ -58,7 +58,7 @@ Vesalius is often referred to as the founder of modern [human anatomy](https://e
 
 #### Excerpts
 
-> When I undertake the dissection of a human pelvis I pass a stout rope tied like a noose beneath the lower jaw and through the [zygomas](https://en.wikipedia.org/wiki/Zygomatic_arch "Zygomatic arch") up to the top of the head... The lower end of the noose I run through a pulley fixed to a beam in the room so that I may raise or lower the cadaver as it hangs there or turn around in any direction to suit my purpose; ... You must take care not to put the noose around the neck, unless some of the muscles connected to the [occipital bone](https://en.wikipedia.org/wiki/Occipital_bone "Occipital bone") have already been cut away.
+* When I undertake the dissection of a human pelvis I pass a stout rope tied like a noose beneath the lower jaw and through the [zygomas](https://en.wikipedia.org/wiki/Zygomatic_arch "Zygomatic arch") up to the top of the head... The lower end of the noose I run through a pulley fixed to a beam in the room so that I may raise or lower the cadaver as it hangs there or turn around in any direction to suit my purpose; ... You must take care not to put the noose around the neck, unless some of the muscles connected to the [occipital bone](https://en.wikipedia.org/wiki/Occipital_bone "Occipital bone") have already been cut away.
 
 #### Other publications
 
@@ -108,7 +108,7 @@ Vesalius is often referred to as the founder of modern [human anatomy](https://e
 
 ### Other Achievements
 
-* Vesalius disproved Galen's assertion that men have more teeth than women.[\[9]](https://en.wikipedia.org/wiki/Andreas_Vesalius#cite_note-NPO-9)
+* Vesalius disproved Galen's assertion that men have more teeth than women.\[[9]](https://en.wikipedia.org/wiki/Andreas_Vesalius#cite_note-NPO-9)
 * Vesalius introduced the notion of induction of the extraction of [empyema](https://en.wikipedia.org/wiki/Empyema "Empyema") through surgical means.
 * Due to his impressive study of the human skull and the variations in its features he is said to have been responsible for the launch of the study of [physical anthropology](https://en.wikipedia.org/wiki/Physical_anthropology "Physical anthropology").
 * Vesalius always encouraged his students to check their findings, and even his own findings, so that they could better understand the structure of the human body.
