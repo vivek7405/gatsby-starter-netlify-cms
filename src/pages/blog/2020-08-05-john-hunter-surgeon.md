@@ -18,27 +18,25 @@ He built up a collection of living animals whose skeletons and other organs he p
 ## Early life
 
 * Hunter was born at [Long Calderwood](https://en.wikipedia.org/wiki/Calderwood,_East_Kilbride "Calderwood, East Kilbride"), the youngest of ten children. The exact date of his birth is uncertain.
-* Three of Hunter's siblings died of illness before he was born. An elder brother was [William Hunter](https://en.wikipedia.org/wiki/William_Hunter_(anatomist) "William Hunter (anatomist)"), the [anatomist](https://en.wikipedia.org/wiki/Anatomist "Anatomist"). As a youth, John showed little talent, and helped his brother-in-law as a [cabinet-maker](https://en.wikipedia.org/wiki/Cabinet-maker "Cabinet-maker").
+* Three of Hunter's siblings died of illness before he was born. An elder brother was [William Hunter](https://en.wikipedia.org/wiki/William_Hunter_(anatomist) "William Hunter (anatomist)"), the [anatomist](https://en.wikipedia.org/wiki/Anatomist "Anatomist").
 
 ## Education and training
 
-* When nearly 21 he visited William in London, where his brother had become an admired teacher of anatomy. John started as his assistant in dissections (1748), and was soon running the practical classes on his own.
+* When nearly 21, he visited William in London, where his brother had become an admired teacher of anatomy. John started as his assistant in dissections (1748), and was soon running the practical classes on his own.
 * Hunter heavily researched blood while [bloodletting](https://en.wikipedia.org/wiki/Bloodletting "Bloodletting") patients with various diseases. This helped him develop his theory that inflammation was a bodily response to disease, and was not itself pathological.
-* Hunter studied under [William Cheselden](https://en.wikipedia.org/wiki/William_Cheselden "William Cheselden") at [Chelsea Hospital](https://en.wikipedia.org/wiki/Chelsea_Hospital "Chelsea Hospital") and [Percival Pott](https://en.wikipedia.org/wiki/Percival_Pott "Percival Pott") at [St. Bartholomew's Hospital](https://en.wikipedia.org/wiki/St._Bartholomew%27s_Hospital "St. Bartholomew's Hospital").
-* Hunter also studied with [Marie Marguerite Bihéron](https://en.wikipedia.org/wiki/Marie_Marguerite_Bih%C3%A9ron "Marie Marguerite Bihéron"), a famous anatomist and wax modeler teaching in London; some of the illustrations in his text were likely hers.
+* Hunter studied with [Marie Marguerite Bihéron](https://en.wikipedia.org/wiki/Marie_Marguerite_Bih%C3%A9ron "Marie Marguerite Bihéron"), a famous anatomist and wax modeler teaching in London; some of the illustrations in his text were likely hers.
 * After qualifying, he became assistant surgeon (house surgeon) at [St George's Hospital](https://en.wikipedia.org/wiki/St_George%27s_Hospital "St George's Hospital") (1756) and surgeon (1768).
 
 ## Army surgeon
 
 * Hunter was commissioned as an Army surgeon in 1760 and was staff surgeon on expedition to the French island of [Belle Île](https://en.wikipedia.org/wiki/Belle_%C3%8Ele "Belle Île") in 1761, then served in 1762 with the British Army.
 * Contrary to prevailing medical opinion at the time, Hunter was against the practice of 'dilation' of gunshot wounds. This practice involved the surgeon deliberately expanding a wound with the aim of making the gunpowder easier to remove.
-* Although sound in theory, in the unsanitary conditions of the time it increased the chance of infection, and Hunter's practice was not to perform dilation 'except when preparatory to something else' such as the removal of bone fragments.
 
 ## Post-Army career
 
 * Hunter left the Army in 1763, and spent at least five years working in partnership with James Spence, a well-known London dentist.
-* Although not the first person to conduct tooth transplants between living people, he did advance the state of knowledge in this area by realising that the chances of a successful tooth transplant would be improved if the donor tooth was as fresh as possible and was matched for size with the recipient.
-* These principles are still used in the transplanation of internal organs. Although donated teeth never properly bonded with the recipients' gums, one of Hunter's patients stated that he had three which lasted for six years, a remarkable period at the time.
+* He conducted tooth transplants between living people and realized that the chances of a successful tooth transplant would be improved if the donor tooth was as fresh as possible and was matched for size with the recipient.
+* These principles are still used in the transplanation of internal organs.
 
 ### Self-experimentation
 
@@ -48,7 +46,7 @@ He built up a collection of living animals whose skeletons and other organs he p
 ### Late career
 
 * In 1768, Hunter was appointed as surgeon to [St George's Hospital](https://en.wikipedia.org/wiki/St_George%27s_Hospital "St George's Hospital"). Later, he became a member of the [Company of Surgeons](https://en.wikipedia.org/wiki/Company_of_Surgeons "Company of Surgeons"). In 1776, he was appointed surgeon to [King George III](https://en.wikipedia.org/wiki/George_III_of_the_United_Kingdom "George III of the United Kingdom").
-* The skeleton, today, with much of Hunter's surviving collection, is in the Hunterian Museum at the [Royal College of Surgeons](https://en.wikipedia.org/wiki/Royal_College_of_Surgeons_of_England "Royal College of Surgeons of England") in London.
+* Hunter's collection is kept in the Hunterian Museum at the [Royal College of Surgeons](https://en.wikipedia.org/wiki/Royal_College_of_Surgeons_of_England "Royal College of Surgeons of England") in London.
 * In 1786, he was appointed deputy surgeon to the British Army and in March 1790, he was made [surgeon general](https://en.wikipedia.org/wiki/Surgeon-General_(United_Kingdom) "Surgeon-General (United Kingdom)") by the then Prime Minister, [William Pitt](https://en.wikipedia.org/wiki/William_Pitt_the_Younger "William Pitt the Younger").
 * Hunter's death in 1793 was due to a heart attack brought on by an argument at St George's Hospital concerning the admission of students. He was originally buried at [St Martin-in-the-Fields](https://en.wikipedia.org/wiki/St_Martin-in-the-Fields "St Martin-in-the-Fields"), but in 1859 was reburied in the north aisle of the nave in [Westminster Abbey](https://en.wikipedia.org/wiki/Westminster_Abbey "Westminster Abbey"), reflecting his importance to the country.
 
@@ -56,8 +54,6 @@ He built up a collection of living animals whose skeletons and other organs he p
 
 * In 1771, he married [Anne Home](https://en.wikipedia.org/wiki/Anne_Home "Anne Home"), daughter of Robert Boyne Home and sister of Sir [Everard Home](https://en.wikipedia.org/wiki/Everard_Home "Everard Home").
 * They had four children, two of whom died before the age of five.
-* One of his infant children is buried in the churchyard in [Kirkheaton, Northumberland](https://en.wikipedia.org/wiki/Kirkheaton,_Northumberland "Kirkheaton, Northumberland"), and the gravestone is Grade II listed.
-* Their fourth child, Agnes, married General Sir [James Campbell of Inverneill](https://en.wikipedia.org/wiki/James_Campbell_of_Inverneill "James Campbell of Inverneill").
 
 ## Legacy
 
@@ -81,5 +77,6 @@ He built up a collection of living animals whose skeletons and other organs he p
 
 ### Memorials
 
-* The John Hunter Clinic of the [Chelsea and Westminster Hospital](https://en.wikipedia.org/wiki/Chelsea_and_Westminster_Hospital "Chelsea and Westminster Hospital") in London is named after him,\[[30]](https://en.wikipedia.org/wiki/John*Hunter*(surgeon)#cite_note-30) as are the [John Hunter Hospital](https://en.wikipedia.org/wiki/John_Hunter_Hospital "John Hunter Hospital") in Newcastle, Australia and the Hunterian Neurosurgical Laboratory of the Johns Hopkins Hospital.
+* The John Hunter Clinic in [Chelsea and Westminster Hospital](https://en.wikipedia.org/wiki/Chelsea_and_Westminster_Hospital "Chelsea and Westminster Hospital") in London is named after him.
+* The [John Hunter Hospital](https://en.wikipedia.org/wiki/John_Hunter_Hospital "John Hunter Hospital") in Newcastle, Australia and the Hunterian Neurosurgical Laboratory of the Johns Hopkins Hospital are also named after him.
 * His birthplace in Long Calderwood, Scotland, has been preserved as [Hunter House Museum](https://en.wikipedia.org/wiki/Hunter_House_Museum "Hunter House Museum").
