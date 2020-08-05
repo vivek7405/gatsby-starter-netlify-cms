@@ -97,7 +97,6 @@ Vesalius is often referred to as the founder of modern [human anatomy](https://e
 ### Other Achievements
 
 * Vesalius disproved Galen's assertion that men have more teeth than women.
-* Vesalius introduced the notion of induction of the extraction of [empyema](https://en.wikipedia.org/wiki/Empyema "Empyema") through surgical means.
 * He also worked on medicinal remedies of treating [syphilis](https://en.wikipedia.org/wiki/Syphilis "Syphilis") with [chinaroot](https://en.wikipedia.org/wiki/Chinaroot "Chinaroot").
 * Vesalius claimed that medicine had three aspects: drugs, diet, and 'the use of hands'.
 * Vesalius was a supporter of 'parallel dissections' in which an animal cadaver and a human cadaver are dissected simultaneously in order to demonstrate the anatomical differences and thus correct Galenic errors.
