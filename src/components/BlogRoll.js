@@ -246,9 +246,9 @@ class BlogRoll extends React.Component {
                     post.frontmatter.featuredpost ? 'is-inverted' : ''
                     }`}
                 >
-                  <span class="tag category city">
+                  {/* <span class="tag category city">
                     City Life
-                  </span>
+                  </span> */}
                   {/* <iframe width="100%"
                     src="https://www.youtube.com/embed/J0PtGdp-Cgs?origin=https://plyr.io&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1"
                     allowfullscreen allow="autoplay">
@@ -264,8 +264,7 @@ class BlogRoll extends React.Component {
                     </div>
                   ) : null}
                   <div class="news-content">
-                    {/* <h3 class="news-title">A beginners’ guide to brewing with Chemex</h3> */}
-                    <h3>
+                    <h3 class="news-title">
                       <Link
                         className="news-title"
                         to={post.fields.slug}
@@ -274,73 +273,82 @@ class BlogRoll extends React.Component {
                       </Link>
                     </h3>
                     {/* <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p> */}
+                      <Link
+                        className="title has-text-primary is-size-4"
+                        to={post.fields.slug}
+                      >
+                        {post.frontmatter.title}
+                      </Link>
+                      <span> &bull; </span>
+                      <span className="subtitle is-size-5 is-block">
+                        {post.frontmatter.date}
+                      </span>
+                    </p> */}
                     <p>
                       {post.excerpt}
                     </p>
                     <div class="button-wrap">
                       <a class="button is-solid grey-button raised">Read More</a>
                       {/* <div class="actions">
-                      <p>a day ago</p>
-                    </div> */}
+                        <p>a day ago</p>
+                      </div> */}
                     </div>
                   </div>
                 </div>
-                // <div className="is-parent column is-6" key={post.id}>
-                //   <article
-                //     className={`blog-list-item tile is-child box notification ${
-                //       post.frontmatter.featuredpost ? 'is-featured' : ''
-                //     }`}
-                //   >
-                //     <header>
-                //       {post.frontmatter.featuredimage ? (
-                //         <div className="featured-thumbnail">
-                //           <PreviewCompatibleImage
-                //             imageInfo={{
-                //               image: post.frontmatter.featuredimage,
-                //               alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                //             }}
-                //           />
-                //         </div>
-                //       ) : null}
-                //       <p className="post-meta">
-                //         <Link
-                //           className="title has-text-primary is-size-4"
-                //           to={post.fields.slug}
-                //         >
-                //           {post.frontmatter.title}
-                //         </Link>
-                //         <span> &bull; </span>
-                //         <span className="subtitle is-size-5 is-block">
-                //           {post.frontmatter.date}
-                //         </span>
-                //       </p>
-                //     </header>
-                //     <p>
-                //       {post.excerpt}
-                //       <br />
-                //       <br />
-                //       <Link className="button" to={post.fields.slug}>
-                //         Keep Reading →
-                //       </Link>
-                //     </p>
-                //   </article>
-                // </div>            
               ))}
           </div>
         </div>
       </div>
     )
+
+    // return (
+    //   <div className="columns is-multiline">
+    //     {posts &&
+    //       posts.map(({ node: post }) => (
+    //         <div className="is-parent column is-4" key={post.id}>
+    //           <article
+    //             className={`blog-list-item tile is-child box notification ${
+    //               post.frontmatter.featuredpost ? 'is-featured' : ''
+    //               }`}
+    //           >
+    //             <header>
+    //               {post.frontmatter.featuredimage ? (
+    //                 <div className="featured-thumbnail">
+    //                   <PreviewCompatibleImage
+    //                     imageInfo={{
+    //                       image: post.frontmatter.featuredimage,
+    //                       alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+    //                     }}
+    //                   />
+    //                 </div>
+    //               ) : null}
+    //               <p className="post-meta">
+    //                 <Link
+    //                   className="title has-text-primary is-size-4"
+    //                   to={post.fields.slug}
+    //                 >
+    //                   {post.frontmatter.title}
+    //                 </Link>
+    //                 <span> &bull; </span>
+    //                 <span className="subtitle is-size-5 is-block">
+    //                   {post.frontmatter.date}
+    //                 </span>
+    //               </p>
+    //             </header>
+    //             <p>
+    //               {post.excerpt}
+    //               <br />
+    //               <br />
+    //               <Link className="button" to={post.fields.slug}>
+    //                 Keep Reading →
+    //                   </Link>
+    //             </p>
+    //           </article>
+    //         </div>
+    //       ))
+    //     }
+    //   </div>
+    // )
   }
 }
 
@@ -362,7 +370,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 200)
               id
               fields {
                 slug
