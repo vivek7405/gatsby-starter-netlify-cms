@@ -7,7 +7,7 @@ description: Andreas Vesalius (31 December 1514 – 15 October 1564) was a
   influential books on human anatomy, De Humani Corporis Fabrica Libri Septem
   (On the Fabric of the Human Body).
 featuredpost: false
-featuredimage: /img/andreas-vesalius.png
+featuredimage: /img/andreas-vesalius.jpg
 tags:
   - anatomist biography
 ---
