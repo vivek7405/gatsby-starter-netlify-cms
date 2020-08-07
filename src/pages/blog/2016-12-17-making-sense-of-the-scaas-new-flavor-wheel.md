@@ -9,6 +9,9 @@ featuredimage: /img/p4.jpg
 tags:
   - flavor
   - tasting
+  - coffee
+  - beverages
+  - addiction
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
