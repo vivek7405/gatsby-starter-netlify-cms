@@ -5,7 +5,7 @@ date: 2020-08-05T17:30:28.042Z
 description: John Hunter FRS (13 February 1728 – 16 October 1793) was a Scottish
   surgeon, one of the most distinguished scientists and surgeons of his day.
 featuredpost: false
-featuredimage: /img/john-hunter.png
+featuredimage: /img/p1.jpg
 tags:
   - anatomist surgeon biography
 ---
