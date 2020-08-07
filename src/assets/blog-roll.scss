@@ -335,11 +335,14 @@ News / Blogging layout styles
         // transition: all 0.5s ease; /* back to normal */
 
         .category {
-            border-radius: 100px;
             padding-left: 0.95em;
             padding-right: 0.95em;
-            background: lighten($fade-grey, 3%);
-            color: $dark-text;
+
+            .tag {
+                border-radius: 100px;
+                background: lighten($fade-grey, 3%);
+                color: $dark-text;
+            }
         }
 
         &.is-default {
